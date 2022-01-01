@@ -9,4 +9,6 @@ module.exports = [
     'localhost:9092',
     'localhost:8000',
     'localhost:8080',
+    '81.68.189.46:9092',
+    '81.68.189.46:1111'
 ]
